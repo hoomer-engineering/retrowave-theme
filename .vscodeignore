@@ -1,0 +1,8 @@
+# .vscodeignore
+# -----------------------------------------------------------------------------
+# This file defines which files will be EXCLUDED from the VS Code extension
+#
+# Use .gitignore for files you don’t want in your repository.
+# Use .vscodeignore for files you don’t want inside the final extension package.
+# -----------------------------------------------------------------------------
+# See https://code.visualstudio.com/api/working-with-extensions/publishing-extension#using-.vscodeignore

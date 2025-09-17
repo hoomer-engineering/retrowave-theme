@@ -1,0 +1,35 @@
+{
+  "name": "retrowave-theme",
+  "displayName": "Retrowave Sunset by Hoomer",
+  "description": "A dark, neon-retro style theme for VSCode with vibrant contrasts and sleek bordering.",
+  "publisher": "hoomer",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoomer-engineering/retrowave-theme"
+  },
+  "homepage": "https://github.com/hoomer-engineering/retrowave-theme#readme",
+  "bugs": {
+    "url": "https://github.com/hoomer-engineering/retrowave-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#1a0c3a",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retrowave Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./retrowave-color-theme.json"
+      }
+    ]
+  }
+}

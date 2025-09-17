@@ -1,0 +1,11 @@
+# VS Code extension package
+*.vsix
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
